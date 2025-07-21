@@ -20,3 +20,14 @@ An interactive and beginner-friendly number guessing game developed in Python. T
  -  Input/output handling using input() and print()
  -  Exception handling (optional enhancement using try-except)
  -  Basic control flow and logic building in Python
+
+ 💻 Sample Output - 🎮 Welcome to the Number Guessing Game!
+     I'm thinking of a number between 1 and 100.
+     Enter your guess: 50
+     Too low!
+
+     Enter your guess: 75
+     Too high!
+
+     Enter your guess: 63
+     Correct! 🎉 You guessed the number in 3 attempts.
